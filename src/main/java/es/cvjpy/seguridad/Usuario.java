@@ -143,7 +143,7 @@ public class Usuario implements Serializable {
 
     public String getPassword() {
         if (password == null) {
-            password = "alfacvjpy";
+            password = "cvjpy";
         }
         return password.trim();
     }
