@@ -30,11 +30,6 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>es.cvjpy.alfa</groupId>
-            <artifactId>alfa-ent</artifactId>
-            <version>1.0</version>
-        </dependency>
     </dependencies>
     <description>Las Entities de seguridad</description>
 </project>
